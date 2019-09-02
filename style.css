@@ -1,0 +1,8 @@
+.main{
+	border: 1px solid #f00;
+	width: 250px;
+	height: 200px;
+	margin:1px;
+	text-align:center;
+	float:left;
+}
